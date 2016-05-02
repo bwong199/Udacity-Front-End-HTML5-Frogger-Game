@@ -1,3 +1,13 @@
+# Opening the App
+
+1) Download the zip file from https://github.com/bwong199/Udacity-Front-End-HTML5-Frogger-Game
+
+2) Open up index.html to start the game. 
+
+3) Use the arrow keys on the keyboard to control the character. 
+
+4) Attempt to reach to the blue (river) while avoiding the enemy bugs
+
 # Bug Game
 frontend-nanodegree-arcade-game
 ===============================
